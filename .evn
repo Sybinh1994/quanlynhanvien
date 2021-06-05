@@ -1,0 +1,14 @@
+ENERGY=20 GeV
+
+spring.datasource.url=postgres://ec2-52-5-247-46.compute-1.amazonaws.com:5432/de2k81mq1b0ui8
+
+
+spring.datasource.username=rwnkxifysjtmhf
+
+
+spring.datasource.password=71d2173ef753c77805cabbb2b669365d32c98273b4000855e23ccc7c48e3bbc6
+
+
+spring.datasource.driverClassName=org.postgresql.Driver
+
+SPRING_JPA_HIBERNATE_DIALECT=org.hibernate.dialect.PostgreSQL9Dialect

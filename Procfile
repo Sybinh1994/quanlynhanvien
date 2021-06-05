@@ -1,0 +1,1 @@
+web: java -jar build/libs/quanlynhanvien-0.0.1-SNAPSHOT.jar
